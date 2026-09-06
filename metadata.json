@@ -1,0 +1,6 @@
+{
+  "name": "SpendLens",
+  "description": "Mobile-first, client-side privacy-focused personal finance and bank statement analyzer with automatic PII redaction and spending bracket insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
